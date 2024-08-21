@@ -14,12 +14,14 @@ This repository is a comprehensive example using Next.js,
 3. [Custom 404 Page](#custom-404-page)
 4. [File Colocation](#file-colocation)
 5. [Private Folders](#private-folders)
-6. [Route Group]
-7. [Layout and Nested Layout]
-8. [Metadata]
-9. [Navigation: Link component + Active Route + Programatic navigation]
-10. [Template]
+6. [Route Group](#)
+7. [Layout and Nested Layout](#)
+8. [Metadata](#)
+9. [Navigation: Link component + Active Route + Programatic navigation](#)
+10. [Template](#)
     <img src="./github-img/template.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+11. [loading UI](#)
+    <img src="./github-img/loading.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
 ## Getting Started
 

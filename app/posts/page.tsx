@@ -1,6 +1,11 @@
 import Link from "next/link";
 
-export default function Posts() {
+export default async function Posts() {
+  const data = await new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(true);
+    }, 2000);
+  });
   const projects = [
     {
       id: 1,
