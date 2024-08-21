@@ -22,6 +22,10 @@ This repository is a comprehensive example using Next.js,
     <img src="./github-img/template.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 11. [loading UI](#)
     <img src="./github-img/loading.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+12. [Error UI](#)
+    <img src="./github-img/error.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+13. [component-hierargy](#)
+    <img src="./github-img/component-hierargy.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
 ## Getting Started
 

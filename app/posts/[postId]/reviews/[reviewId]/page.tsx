@@ -25,6 +25,9 @@ export default function ReviewDetail({
     postId: string;
   };
 }) {
+  if (parseInt(params.reviewId) > 800) {
+    throw new Error("To high reviewID");
+  }
   if (parseInt(params.reviewId) > 500) {
     notFound();
   }
