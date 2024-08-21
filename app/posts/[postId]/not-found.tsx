@@ -1,7 +1,7 @@
 import React from "react";
 
-function NotFoundReview() {
-  return <div>NotFoundReview</div>;
+function PostIdNotFound() {
+  return <div>PostIdNotFound page</div>;
 }
 
-export default NotFoundReview;
+export default PostIdNotFound;
