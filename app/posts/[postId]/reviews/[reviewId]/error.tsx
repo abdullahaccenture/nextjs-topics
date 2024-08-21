@@ -1,4 +1,4 @@
-"use client"; // Error boundaries must be Client Components
+"use client";
 
 import { useEffect } from "react";
 
@@ -9,6 +9,7 @@ export default function Error({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  console.log("reset====>", reset);
   useEffect(() => {
     // Log the error to an error reporting service
     console.error(error);

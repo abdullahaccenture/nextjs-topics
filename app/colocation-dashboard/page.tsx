@@ -3,5 +3,9 @@ export function Bar() {
 }
 
 export default function Dashboard() {
-  return <div>Dashboard</div>;
+  return (
+    <div>
+      <h1>Im colocation deash board</h1>
+    </div>
+  );
 }
