@@ -1,4 +1,7 @@
 // components/Header.js
+
+import Link from "next/link";
+
 export default function Header() {
   return (
     <header className="bg-blue-600 text-white p-4">
@@ -7,9 +10,9 @@ export default function Header() {
         <nav>
           <ul className="flex space-x-4">
             <li>
-              <a href="/" className="hover:underline">
-                Home
-              </a>
+              <Link href="/login" className="hover:underline">
+                Login
+              </Link>
             </li>
             <li>
               <a href="/about" className="hover:underline">
