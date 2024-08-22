@@ -27,6 +27,10 @@ This repository is a comprehensive example using Next.js,
     <img src="./github-img/error.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 13. [component-hierargy](#)
     <img src="./github-img/component-hierargy.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+14. [Intercepted Route](#)
+    intercet the route while moving to certain route
+    https://youtube.com/watch?v=zDZBKEvU8b0
+    
 
 ## Getting Started
 
