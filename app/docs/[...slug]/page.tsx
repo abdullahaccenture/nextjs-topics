@@ -6,8 +6,6 @@ export default function DocsFeatures({
     slug: string[];
   };
   searchParams: Object;
-}) {
-  console.log(params);
-  console.log(searchParams);
+}) { 
   return <div>docs DocsFeatures</div>;
 }
