@@ -2,7 +2,17 @@
 
 This repository is a comprehensive example using Next.js,
 
-## Table of Contents
+## Table of Contents - Routing topic
+### Routing Section Summary
+- **Route definition**
+- **Pages and layouts**
+- **Dynamic routes**
+- **Route groups**
+- **Linking and Navigation**
+- **Handling errors in routes**
+- **Parallel and Intercepting routes**
+- **Route handlers and middleware**
+
 
 1. [Getting Started](#getting-started)
 2. [Routing in Next.js](#routing-in-nextjs)
@@ -32,18 +42,18 @@ This repository is a comprehensive example using Next.js,
     https://youtube.com/watch?v=zDZBKEvU8b0
     
 
-18. cookies
+18.  [cookies](#) 
 
   <img src="./github-img/cookies.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
-19. caching
+19. [caching](#)  
         bydefault for Get request
   <img src="./github-img/cache.png" alt="template" width="900" height="500" style="display:inline-block;"/>
   outpout ways:
   <img src="./github-img/cache2.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
-20.
-  middleware
+20. [middleware](#) 
+  
     <img src="./github-img/middleware.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
 
