@@ -42,6 +42,10 @@ This repository is a comprehensive example using Next.js,
   outpout ways:
   <img src="./github-img/cache2.png" alt="template" width="900" height="500" style="display:inline-block;"/>
 
+20.
+  middleware
+    <img src="./github-img/middleware.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+
 
 ## Getting Started
 
