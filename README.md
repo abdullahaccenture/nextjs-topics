@@ -32,6 +32,17 @@ This repository is a comprehensive example using Next.js,
     https://youtube.com/watch?v=zDZBKEvU8b0
     
 
+18. cookies
+
+  <img src="./github-img/cookies.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+
+19. caching
+        bydefault for Get request
+  <img src="./github-img/cache.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+  outpout ways:
+  <img src="./github-img/cache2.png" alt="template" width="900" height="500" style="display:inline-block;"/>
+
+
 ## Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
